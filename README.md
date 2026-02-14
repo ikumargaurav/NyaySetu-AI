@@ -17,3 +17,4 @@ NyaySetu AI is a multilingual AI assistant designed to help Indian citizens disc
 - Multilingual support using translation APIs
 - Clean microservice architecture
 
+📄 PPT: https://github.com/ikumargaurav/NyaySetu-AI/blob/main/NyaySetu-AI-Submission.pdf

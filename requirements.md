@@ -15,6 +15,10 @@ To build a multilingual AI-powered assistant that:
 
 ## 3. Functional Requirements
 
+• User can select preferred language  
+• System must interpret query meaningfully  
+• System must return relevant scheme list  
+
 ### 3.1 User Interaction
 - User can select preferred language
 - User can enter query (text/voice)

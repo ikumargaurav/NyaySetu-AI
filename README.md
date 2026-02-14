@@ -8,7 +8,7 @@ NyaySetu AI is a multilingual AI assistant designed to help Indian citizens disc
 - **design.md** – Architecture and design documentation
 
 ## Team
-- **Team Name**: CodeSutra AI
+- **Team Name**: CodeKarma
 - **Team Leader**: Kumar Gaurav
 
 ## Tech Approach Summary

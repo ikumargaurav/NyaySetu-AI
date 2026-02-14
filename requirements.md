@@ -49,3 +49,8 @@ To build a multilingual AI-powered assistant that:
 - Women beneficiaries
 - Students
 - Low digital literacy users
+
+
+## Document Workflow
+
+This document was structured and finalized using the Kiro planning workflow.

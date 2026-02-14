@@ -38,3 +38,7 @@ User → API → AI Engine → Scheme Database → Response → Translation → 
 - Replace TF-IDF with embedding-based model
 - Integrate real-time government APIs
 - Deploy on AWS cloud infrastructure
+
+## Design Workflow
+
+This design document was refined and validated within Kiro workspace.
